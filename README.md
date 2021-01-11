@@ -5,7 +5,9 @@ An application which scrape from a given URL the HTML version of page, Page Titl
 ## Building locally
 
 1.Clone the project
+
 2.Run `go mod download && go build main`
+
 3.Run `go run main.go`
 
 ## Usage
